@@ -17,8 +17,8 @@
 
 
 
-/*    vm.click = click;
+/*   vm.click = click;
     var ingredient;
     vm.ingredient = null;
     function click (index){
-      vm.ingredient = vm.ingredient[index];
+     vm.ingredient = vm.ingredient[index];
